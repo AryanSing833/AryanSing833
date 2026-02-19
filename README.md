@@ -45,8 +45,9 @@
 ## 🧪 <b><samp>Research & Internship Experience</samp></b>
 
 - 🛤 **Patent Researcher**  
-  Working on an innovative **Railway Safety System**, leveraging real-time sensors, alerts, and predictive ML techniques.
-  Developing Intelligent Soil Monitoring System, integrating real-time multi-parameter sensors and predictive ML models for proactive soil health. 🌱
+  1>Working on an innovative **Railway Safety System**, leveraging real-time sensors, alerts, and predictive ML techniques.
+  <br>
+  2>Developing Intelligent **Soil Monitoring System**, integrating real-time multi-parameter sensors and predictive ML models for proactive soil health. 🌱
 
 - 🏢 **Cisco Virtual Internship**  
   Learned **networking fundamentals, cybersecurity concepts**, and secure architecture practices.
