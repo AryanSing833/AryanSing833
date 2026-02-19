@@ -75,22 +75,3 @@
 
 ---
 
-## 🧩 <b><samp>Check Out My Projects</samp></b>
-
-<span> <a href="https://github.com/AryanSing833/-Agentic-GST-AI-Assistant-for-Healthcare-"> <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=AryanSing833&repo=-Agentic-GST-AI-Assistant-for-Healthcare-&theme=onedark" /> </a> <a href="https://github.com/AryanSing833/Brand-Guardian-AI"> <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AryanSing833&repo=Brand-Guardian-AI&theme=onedark" /> </a> </span>
-<br><br><br><br>
-<span> <a href="https://github.com/AryanSing833/Brand-Guardian-AI"> <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AryanSing833&repo=Brand-Guardian-AI&theme=onedark" /> </a> <a href="https://github.com/AryanSing833/-Agentic-GST-AI-Assistant-for-Healthcare-"> <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=AryanSing833&repo=-Agentic-GST-AI-Assistant-for-Healthcare-&theme=onedark" /> </a> </span>
-
----
-
-## 🏆 GitHub Profile Trophy  
-
-<p align="center">
-  <img width="800" src="https://github-profile-trophy.vercel.app/?username=AryanSingh833&column=8&theme=onedark&no-frame=true&no-bg=true"/>
-</p>
-
----
-
-<br>
-
-![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bottom_header.svg)
