@@ -62,7 +62,7 @@
 ![](https://skills.syvixor.com/api/icons?i=tensorflow,opencv&perline=18)
 
 ### <b><samp>Frontend</samp></b>  
-![](https://skills.syvixor.com/api/icons?i=html,css,tailwind,javascript,react&perline=18)
+![](https://skills.syvixor.com/api/icons?i=html,css,javascript&perline=18)
 
 ### <b><samp>Backend</samp></b>  
 ![](https://skills.syvixor.com/api/icons?i=nodejs,django&perline=18)
@@ -79,12 +79,12 @@
 
 <span>
 
-<a href="https://github.com/AryanSing833/Water_Monitoring_System">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=AryanSing833&repo=Water_Monitoring_System" />
+<a href="https://github.com/AryanSing833/Brand-Guardian-AI">
+  <img align="right" src="[https://github-readme-stats.vercel.app/api/pin/?username=AryanSing833&repo=Water_Monitoring_System](https://github.com/AryanSing833/Brand-Guardian-AI/blob/main/README.md)" />
 </a>
 
-<a href="https://github.com/AryanSingh833/online_movie_booking">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AryanSingh833&repo=online_movie_booking" />
+<a href="https://github.com/AryanSingh833/-Agentic-GST-AI-Assistant-for-Healthcare-">
+  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=AryanSingh833&repo=online_movie_booking](https://github.com/AryanSing833/-Agentic-GST-AI-Assistant-for-Healthcare-/blob/main/README.md)" />
 </a>
 
 </span>
