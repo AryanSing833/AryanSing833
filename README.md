@@ -77,17 +77,9 @@
 
 ## 🧩 <b><samp>Check Out My Projects</samp></b>
 
-<span>
-
-<a href="https://github.com/AryanSing833/Brand-Guardian-AI">
-  <img align="right" src="[https://github-readme-stats.vercel.app/api/pin/?username=AryanSing833&repo=Water_Monitoring_System](https://github.com/AryanSing833/Brand-Guardian-AI/blob/main/README.md)" />
-</a>
-
-<a href="https://github.com/AryanSingh833/-Agentic-GST-AI-Assistant-for-Healthcare-">
-  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=AryanSingh833&repo=online_movie_booking](https://github.com/AryanSing833/-Agentic-GST-AI-Assistant-for-Healthcare-/blob/main/README.md)" />
-</a>
-
-</span>
+<span> <a href="https://github.com/AryanSing833/-Agentic-GST-AI-Assistant-for-Healthcare-"> <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=AryanSing833&repo=-Agentic-GST-AI-Assistant-for-Healthcare-&theme=onedark" /> </a> <a href="https://github.com/AryanSing833/Brand-Guardian-AI"> <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AryanSing833&repo=Brand-Guardian-AI&theme=onedark" /> </a> </span>
+<br><br><br><br>
+<span> <a href="https://github.com/AryanSing833/Brand-Guardian-AI"> <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AryanSing833&repo=Brand-Guardian-AI&theme=onedark" /> </a> <a href="https://github.com/AryanSing833/-Agentic-GST-AI-Assistant-for-Healthcare-"> <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=AryanSing833&repo=-Agentic-GST-AI-Assistant-for-Healthcare-&theme=onedark" /> </a> </span>
 
 ---
 
