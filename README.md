@@ -33,11 +33,10 @@
 
 - 🎓 <samp><b>B.Tech in Computer Science, Lovely Professional University</b></samp>  
 - 🤖 <samp>Working on **AI Agents, ML Systems, and Intelligent Automation**</samp>  
-- 🧪 <samp>Research Focus: **Railway Warning & Safety System (Patent Work)**</samp>  
-- 🏢 <samp>Completed **Cisco Virtual Internship** (Cybersecurity + Networking)</samp>  
-- 💡 <samp>Building hybrid ML models integrating **sensor data + image analytics**</samp>  
+- 🧪 <samp>Research Focus: **Sensor-Based End-to-End Product Design**</samp>  
+- 🏢 <samp>Completed **Cisco Virtual Internship** (Cybersecurity + Networking)</samp>    
 - 🔭 <samp>Currently expanding into **MLOps, Computer Vision, and automation systems**</samp>  
-- ⚡ <samp>Fun fact: I like building systems that feel *alive* — adaptive, evolving, intelligent.</samp>
+- ⚡ <samp>Fun fact: Training the model was easy. Deploying it made me question my life choices..</samp>
 
 </div>
 
@@ -47,6 +46,7 @@
 
 - 🛤 **Patent Researcher**  
   Working on an innovative **Railway Safety System**, leveraging real-time sensors, alerts, and predictive ML techniques.
+  Developing Intelligent Soil Monitoring System, integrating real-time multi-parameter sensors and predictive ML models for proactive soil health. 🌱
 
 - 🏢 **Cisco Virtual Internship**  
   Learned **networking fundamentals, cybersecurity concepts**, and secure architecture practices.
@@ -65,13 +65,13 @@
 ![](https://skills.syvixor.com/api/icons?i=html,css,tailwind,javascript,react&perline=18)
 
 ### <b><samp>Backend</samp></b>  
-![](https://skills.syvixor.com/api/icons?i=nodejs,express,django&perline=18)
+![](https://skills.syvixor.com/api/icons?i=nodejs,django&perline=18)
 
-### <b><samp>Databases</samp></b>  
-![](https://skills.syvixor.com/api/icons?i=mongodb,mysql,postgresql&perline=18)
+### <b><samp>ML Pipeline Tool</samp></b>  
+![](https://skills.syvixor.com/api/icons?i=fastapi,docker,grafana&perline=18)
 
 ### <b><samp>Tools & Platforms</samp></b>  
-![](https://skills.syvixor.com/api/icons?i=git,linux,postman,vscode&perline=18)
+![](https://skills.syvixor.com/api/icons?i=git,anaconda,vscode&perline=18)
 
 ---
 
