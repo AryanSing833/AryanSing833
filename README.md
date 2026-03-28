@@ -63,7 +63,7 @@
 ![](https://skills.syvixor.com/api/icons?i=tensorflow,opencv,scikitlearn&perline=18)
 
 ### <b><samp>Deep Learning & NLP</samp></b>  
-![](https://skills.syvixor.com/api/icons?i=transformers&perline=18)
+<p>Transformers • RAG • FAISS • Whisper • EasyOCR</p>
 
 ### <b><samp>Data & Embeddings</samp></b>  
 ![](https://skills.syvixor.com/api/icons?i=numpy&perline=18)
