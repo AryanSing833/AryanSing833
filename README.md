@@ -69,7 +69,7 @@
 ![](https://skills.syvixor.com/api/icons?i=nodejs,django&perline=18)
 
 ### <b><samp>ML Pipeline Tool</samp></b>  
-![](https://skills.syvixor.com/api/icons?i=fastapi,docker,grafana&perline=18)
+![](https://skills.syvixor.com/api/icons?i=fastapi,docker,AWS&perline=18)
 
 ### <b><samp>Tools & Platforms</samp></b>  
 ![](https://skills.syvixor.com/api/icons?i=git,anaconda,vscode&perline=18)
