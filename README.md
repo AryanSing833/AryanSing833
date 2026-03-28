@@ -57,22 +57,28 @@
 ## 🛠 <b><samp>Skills</samp></b>
 
 ### <b><samp>Languages</samp></b>  
-![](https://skills.syvixor.com/api/icons?i=python,cpp,c,js&perline=18)
+![](https://skills.syvixor.com/api/icons?i=python,cpp,c,javascript&perline=18)
 
-### <b><samp>Machine Learning & CV</samp></b>  
-![](https://skills.syvixor.com/api/icons?i=tensorflow,opencv&perline=18)
+### <b><samp>Machine Learning & AI</samp></b>  
+![](https://skills.syvixor.com/api/icons?i=tensorflow,opencv,scikitlearn&perline=18)
+
+### <b><samp>Deep Learning & NLP</samp></b>  
+![](https://skills.syvixor.com/api/icons?i=transformers&perline=18)
+
+### <b><samp>Data & Embeddings</samp></b>  
+![](https://skills.syvixor.com/api/icons?i=numpy&perline=18)
 
 ### <b><samp>Frontend</samp></b>  
 ![](https://skills.syvixor.com/api/icons?i=html,css,javascript&perline=18)
 
 ### <b><samp>Backend</samp></b>  
-![](https://skills.syvixor.com/api/icons?i=nodejs,django&perline=18)
+![](https://skills.syvixor.com/api/icons?i=fastapi,django&perline=18)
 
-### <b><samp>ML Pipeline Tool</samp></b>  
-![](https://skills.syvixor.com/api/icons?i=fastapi,docker,aws&perline=18)
+### <b><samp>ML Pipeline & Deployment</samp></b>  
+![](https://skills.syvixor.com/api/icons?i=docker,aws,fastapi&perline=18)
 
 ### <b><samp>Tools & Platforms</samp></b>  
-![](https://skills.syvixor.com/api/icons?i=git,anaconda,vscode&perline=18)
+![](https://skills.syvixor.com/api/icons?i=git,vscode,anaconda&perline=18)
 
 ---
 
